@@ -2,3 +2,7 @@
 	path = mdms-data-pb
 	url = https://github.com/GhanshyamRawat92/mdms-data-pb.git
 	branch = main
+[submodule "mdms-data-up"]
+	path = mdms-data-up
+	url = https://github.com/GhanshyamRawat92/mdms-data-up.git
+	branch = main
